@@ -1,3 +1,3 @@
-full_name = 'Johin Smith'
-age = 20
-is_new_patient = True
+#Getting input
+name = input('What is your name? ')
+print('Hi ' + name)
