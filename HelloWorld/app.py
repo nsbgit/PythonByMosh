@@ -1,4 +1,5 @@
 """
+Type Conversion Exercise :
 Ask a user their weight (in pounds), convert it to kilograms and print on the terminal.
 """
 weigth_lbs = input('What is your weight (lbs)? ')
