@@ -14,7 +14,8 @@ course = 'Python for Beginners course in on'
 print(f'len() => {len(course)}')
 print(f'upper() = {course.upper()}')
 print(f'lower() => {course.lower()}')
-print(f'title() => {course.title()}')  # Returns a string which has first letter in each word as CAPITAL and the rest are as small
+print(f'title() => {course.title()}')  # Returns a string which has first letter in each word as CAPITAL and the rest
+# are as small
 print(f'Original String => {course}')
 
 # FIND METHOD:
